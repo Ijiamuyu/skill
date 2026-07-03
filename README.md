@@ -5,3 +5,4 @@
 ## 文件
 
 - `git-commit-rules.md` — Git 提交信息规范
+- `doc-rules.md` — 文档编写规则
