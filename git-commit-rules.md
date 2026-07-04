@@ -34,3 +34,8 @@ docs: 更新README使用说明
   - 修复Markdown渲染异常
   - 清除未使用的引用
   ```
+
+## 推送规则
+
+- 单人开发，提交后直接推送 `git push origin master`
+- 确保推送内容完整、无残留调试代码
