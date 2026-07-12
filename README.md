@@ -7,3 +7,4 @@
 - `chat-rules.md` — 接触全过程的对话与相处方法论
 - `doc-rules.md` — 文档编写规则
 - `git-commit-rules.md` — Git 提交信息规范
+- `invest-rules.md` — 个人长期价值投资的决策与持仓规则
